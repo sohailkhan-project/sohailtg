@@ -25,7 +25,7 @@ class Development(Config):
   # GOOGLE DRIVE VARS SETUP HERE
   G_DRIVE_CLIENT_ID = "105053195531-k6lil4953uvlcfap9pbgdm9rio51ccl4.apps.googleusercontent.com"
   G_DRIVE_CLIENT_SECRET = "v0eF2RcSFRUuoCzzPWlPRjWa"
-  G_DRIVE_DATA = '{"installed":{"client_id":"105053195531-k6lil4953uvlcfap9pbgdm9rio51ccl4.apps.googleusercontent.com","project_id":"sixth-hash-299820","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"v0eF2RcSFRUuoCzzPWlPRjWa","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}"
+  G_DRIVE_DATA = "{"installed":{"client_id":"105053195531-k6lil4953uvlcfap9pbgdm9rio51ccl4.apps.googleusercontent.com","project_id":"sixth-hash-299820","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"v0eF2RcSFRUuoCzzPWlPRjWa","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}"
   # SCREENSHOTLAYER ACCESS KEY
   SCREEN_SHOT_LAYER_ACCESS_KEY = "3c67df6610916666939a5a6955c4860f" 
   # WEATER API KEYS
